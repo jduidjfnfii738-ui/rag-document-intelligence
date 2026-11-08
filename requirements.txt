@@ -1,0 +1,11 @@
+streamlit
+pypdf
+sentence-transformers
+chromadb
+transformers
+torch
+accelerate
+pytest
+langchain-text-splitters
+streamlit-cookies-manager-v2
+llama-cpp-python
